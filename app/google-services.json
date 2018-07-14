@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "796865711008",
+    "firebase_url": "https://kruku-345d2.firebaseio.com",
+    "project_id": "kruku-345d2",
+    "storage_bucket": "kruku-345d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796865711008:android:2e7e702e1e3a6925",
+        "android_client_info": {
+          "package_name": "com.skyview.kruku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796865711008-1pndu5d3r804a3sq7153tpn8k0vr6d7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skyview.kruku",
+            "certificate_hash": "b26b36e0890be47b2ac76826e717d21f6cb79a4d"
+          }
+        },
+        {
+          "client_id": "796865711008-bpp9i9lglj3b4mh64ust5q9dn396pji8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARQgq2IfNNtiaIbXr5DEwPRN_KS0efIXA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796865711008-bpp9i9lglj3b4mh64ust5q9dn396pji8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
